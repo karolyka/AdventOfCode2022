@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea436949-3fbb-4eaa-8456-db77fc746156" name="Changes" comment="Day 01">
-      <change afterPath="$PROJECT_DIR$/day02/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/input_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+    <list default="true" id="ea436949-3fbb-4eaa-8456-db77fc746156" name="Changes" comment="Day 02">
+      <change afterPath="$PROJECT_DIR$/day03/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/input_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/src/main/kotlin/Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
@@ -95,7 +94,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.AoC2022 [clean]">
+  <component name="RunManager" selected="Kotlin.MainKt (2)">
     <configuration name="AoC2022 [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -145,6 +144,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="AdventOfCode2022.day03.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainKt" />
       <module name="AdventOfCode2022.day01.main" />
@@ -154,6 +160,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MainKt (2)" />
         <item itemvalue="Gradle.AoC2022 [clean]" />
         <item itemvalue="Kotlin.MainKt (1)" />
         <item itemvalue="Kotlin.MainKt" />
@@ -177,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670227228791</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Day 02">
+      <created>1670313958517</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670313958517</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,7 +207,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day 01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 01" />
+    <MESSAGE value="Day 02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 02" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
