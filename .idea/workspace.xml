@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea436949-3fbb-4eaa-8456-db77fc746156" name="Changes" comment="Day 06">
-      <change beforePath="$PROJECT_DIR$/day06/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/day06/src/main/kotlin/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/input_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +100,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.MainKt">
+  <component name="RunManager" selected="Kotlin.MainKt (1)">
     <configuration name="AoC2022 [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -116,9 +122,9 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="MainKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainKt" />
-      <module name="AdventOfCode2022.day03.main" />
+      <module name="AdventOfCode2022.day07.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -146,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MainKt (1)" />
         <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Gradle.AoC2022 [clean]" />
         <item itemvalue="Kotlin.MainKt (4)" />
         <item itemvalue="Kotlin.MainKt (3)" />
-        <item itemvalue="Kotlin.MainKt (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670487893401</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Day 06">
+      <created>1670488101557</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670488101557</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
