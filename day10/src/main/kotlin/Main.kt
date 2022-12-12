@@ -24,7 +24,6 @@ fun main(args: Array<String>) {
     var steps = 0
     var registerX = CYCLES_NOOP
     var sum = 0
-    var spritePosition = 0
     val crt = (0 until MAX_CRT_LINES).map { (0 until WIDE).map { EMPTY }.toCharArray() }.toTypedArray()
 
     lines.map { it.toCommand() }.forEach { command ->
