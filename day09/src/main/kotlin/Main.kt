@@ -15,7 +15,6 @@ fun main(args: Array<String>) {
     val rope = Rope(SHORT_KNOTS)
     lines.map { it.toStep() }.forEach { step ->
         repeat(step.steps) { rope.move(step.direction) }
-//        println(rope)
     }
 
     println("Task1")
@@ -24,7 +23,6 @@ fun main(args: Array<String>) {
     val longRope = Rope(LONG_KNOTS)
     lines.map { it.toStep() }.forEach { step ->
         repeat(step.steps) { longRope.move(step.direction) }
-//        println(longRope)
     }
 
     println("\nTask2")
