@@ -9,7 +9,7 @@ const val INPUT_FILE_NAME = "day09/input.txt"
 private const val SHORT_KNOTS = 2
 private const val LONG_KNOTS = 10
 
-fun main(args: Array<String>) {
+fun main() {
     val lines = File(INPUT_FILE_NAME).readLines().toTypedArray()
 
     val rope = Rope(SHORT_KNOTS)

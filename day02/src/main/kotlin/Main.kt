@@ -8,7 +8,7 @@ private const val POINT_LOSE = 0
 private const val POINT_DRAW = 3
 private const val POINT_WIN = 6
 
-fun main(args: Array<String>) {
+fun main() {
 
     val cardMap = buildCardMap()
 

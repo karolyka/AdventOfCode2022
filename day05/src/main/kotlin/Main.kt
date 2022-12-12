@@ -3,7 +3,7 @@ import java.io.File
 const val INPUT_FILE_NAME = "day05/input.txt"
 //const val INPUT_FILE_NAME = "day05/input_test.txt"
 
-fun main(args: Array<String>) {
+fun main() {
     val lines = File(INPUT_FILE_NAME).readLines()
 
     val params = lines.toParams()

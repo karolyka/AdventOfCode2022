@@ -18,7 +18,7 @@ private const val MAX_CRT_LINES = 7
 
 private val spriteRange = (0..2)
 
-fun main(args: Array<String>) {
+fun main() {
     val lines = File(INPUT_FILE_NAME).readLines().toTypedArray()
 
     var steps = 0

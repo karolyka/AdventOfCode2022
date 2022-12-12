@@ -5,7 +5,7 @@ const val INPUT_FILE_NAME = "day01/input.txt"
 //const val INPUT_FILE_NAME = "day01/input_test.txt"
 const val MOST_ELF_COUNT = 3
 
-fun main(args: Array<String>) {
+fun main() {
     val lines = File(INPUT_FILE_NAME).readLines()
 
     val elfCalories = mutableMapOf<Int, Int>()

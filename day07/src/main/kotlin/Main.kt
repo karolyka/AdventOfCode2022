@@ -15,7 +15,7 @@ private const val TASK1_LIMIT = 100_000
 private const val DRIVE_CAPACITY = 70_000_000
 private const val SPACE_NEEDED = 30_000_000
 
-fun main(args: Array<String>) {
+fun main() {
     val lines = File(INPUT_FILE_NAME).readLines()
 
     val root = ElfDirectory(CD_ROOT, null)

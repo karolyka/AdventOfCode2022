@@ -6,7 +6,7 @@ const val INPUT_FILE_NAME = "day06/input.txt"
 private const val CHAR_NUM_TASK1 = 4
 private const val CHAR_NUM_TASK2 = 14
 
-fun main(args: Array<String>) {
+fun main() {
     val lines = File(INPUT_FILE_NAME).readLines()
 
     listOf(CHAR_NUM_TASK1, CHAR_NUM_TASK2)
